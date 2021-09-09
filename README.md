@@ -1,1 +1,1 @@
-Jupyter notebooks for loading, visualizing, and analyzing the Iris data
+Jupyter notebooks for loading, visualizing, and analyzing various data
